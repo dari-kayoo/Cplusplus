@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "path": "..\\..\\..\\Documents\\Wondershare Filmora 9"
+    },
+    {
+      "path": "..\\acmp"
+    },
+    {
+      "path": "..\\lab5"
+    },
+    {
+      "path": "..\\lab4"
+    },
+    {
+      "path": "..\\quiz1"
+    },
+    {
+      "path": "..\\informatics"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\lab7"
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp"
+    }
+  }
+}
